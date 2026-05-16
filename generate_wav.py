@@ -9,7 +9,7 @@ import sys
 # ====
 # ===
 
-# VER 0.0.3
+# VER 0.0.4
 
 WAVE_TYPES = {
     'sinus': 'sin',
@@ -18,6 +18,7 @@ WAVE_TYPES = {
     'piła': 'saw',
     'kwadrat': 'square'
 }
+
 
 def generate_wave(sample_rate, frequency, duration, wave_type):
     num_samples = int(sample_rate * duration)
