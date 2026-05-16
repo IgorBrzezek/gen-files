@@ -9,6 +9,8 @@ import sys
 # ====
 # ===
 
+# VER 0.0.3
+
 WAVE_TYPES = {
     'sinus': 'sin',
     'sawtooth': 'saw',
