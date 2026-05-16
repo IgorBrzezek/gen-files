@@ -7,6 +7,7 @@ import sys
 
 # ====
 # ====
+# ===
 
 WAVE_TYPES = {
     'sinus': 'sin',
