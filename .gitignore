@@ -1,0 +1,10 @@
+*.wav
+*.bak
+*.tmp
+
+__pycache__/
+*.pyc
+
+venv/
+env/
+.venv/
